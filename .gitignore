@@ -119,3 +119,6 @@ lib/
 
 .out/
 out1381/
+
+# All JetBrains config
+.idea
